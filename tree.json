@@ -1,0 +1,1000 @@
+{         "Entirely Natural" : {                      "Don't Trust" : {            "Strongly Disagree":                      1.685,
+                                                                                   "Disagree Somewhat":                        7.2,
+                                                                                   "Neutral":                               10.124,
+                                                                                   "Agree Somewhat":                        23.958,
+                                                                                   "Strongly Agree":                        28.594,
+                                                                                   "Don't Know":                             1.618,
+                                                                                   "No Opinion":                             1.004},
+                                                      "Trust" : {                  "Strongly Disagree":                      2.623,
+                                                                                   "Disagree Somewhat":                      2.075,
+                                                                                   "Neutral":                                2.843,
+                                                                                   "Agree Somewhat":                             0,
+                                                                                   "Strongly Agree":                             0,
+                                                                                   "Don't Know":                                 0,
+                                                                                   "No Opinion":                                 0}},
+          "Mostly Natural" : {                        "Don't Trust" : {            "Strongly Disagree":                      3.263,
+                                                                                   "Disagree Somewhat":                     12.303,
+                                                                                   "Neutral":                               29.717,
+                                                                                   "Agree Somewhat":                        33.468,
+                                                                                   "Strongly Agree":                        21.596,
+                                                                                   "Don't Know":                             1.836,
+                                                                                   "No Opinion":                             1.291},
+                                                      "Trust" : {                  "Strongly Disagree":                      1.548,
+                                                                                   "Disagree Somewhat":                      6.275,
+                                                                                   "Neutral":                                2.531,
+                                                                                   "Agree Somewhat":                         1.735,
+                                                                                   "Strongly Agree":                         2.115,
+                                                                                   "Don't Know":                                 0,
+                                                                                   "No Opinion":                                 0}},
+          "Partly Natural, Partly Human Activity" : { "Don't Trust" : {            "Strongly Disagree":                     11.163,
+                                                                                   "Disagree Somewhat":                    137.044,
+                                                                                   "Neutral":                              115.951,
+                                                                                   "Agree Somewhat":                        94.698,
+                                                                                   "Strongly Agree":                        35.352,
+                                                                                   "Don't Know":                             5.723,
+                                                                                   "No Opinion":                                 0},
+                                                      "Trust" : {                  "Strongly Disagree":                      4.837,
+                                                                                   "Disagree Somewhat":                     21.555,
+                                                                                   "Neutral":                               21.455,
+                                                                                   "Agree Somewhat":                        12.633,
+                                                                                   "Strongly Agree":                         1.406,
+                                                                                   "Don't Know":                             1.414,
+                                                                                   "No Opinion":                                 0}},
+          "Mostly Human Activity" : {                 "Don't Trust" : {            "Strongly Disagree":                     13.206,
+                                                                                   "Disagree Somewhat":                     83.704,
+                                                                                   "Neutral":                               39.544,
+                                                                                   "Agree Somewhat":                        30.158,
+                                                                                   "Strongly Agree":                        17.709,
+                                                                                   "Don't Know":                             4.318,
+                                                                                   "No Opinion":                             2.419},
+                                                      "Trust" : {                  "Strongly Disagree":                      6.069,
+                                                                                   "Disagree Somewhat":                     20.847,
+                                                                                   "Neutral":                                3.062,
+                                                                                   "Agree Somewhat":                             0,
+                                                                                   "Strongly Agree":                         1.912,
+                                                                                   "Don't Know":                                 0,
+                                                                                   "No Opinion":                                 0}},
+          "Entirely Human Activity" : {               "Don't Trust" : {            "Strongly Disagree":                      4.826,
+                                                                                   "Disagree Somewhat":                     18.391,
+                                                                                   "Neutral":                                9.218,
+                                                                                   "Agree Somewhat":                         4.947,
+                                                                                   "Strongly Agree":                         7.626,
+                                                                                   "Don't Know":                             2.329,
+                                                                                   "No Opinion":                                 0},
+                                                      "Trust" : {                  "Strongly Disagree":                      2.988,
+                                                                                   "Disagree Somewhat":                      5.884,
+                                                                                   "Neutral":                                1.654,
+                                                                                   "Agree Somewhat":                         1.024,
+                                                                                   "Strongly Agree":                         0.733,
+                                                                                   "Don't Know":                             1.024,
+                                                                                   "No Opinion":                                 0}},
+          "No Such Thing" : {                         "Don't Trust" : {            "Strongly Disagree":                      0.895,
+                                                                                   "Disagree Somewhat":                      2.355,
+                                                                                   "Neutral":                                3.909,
+                                                                                   "Agree Somewhat":                         3.804,
+                                                                                   "Strongly Agree":                         6.749,
+                                                                                   "Don't Know":                             1.202,
+                                                                                   "No Opinion":                             1.864},
+                                                      "Trust" : {                  "Strongly Disagree":                          0,
+                                                                                   "Disagree Somewhat":                      1.038,
+                                                                                   "Neutral":                                    0,
+                                                                                   "Agree Somewhat":                             0,
+                                                                                   "Strongly Agree":                         0.623,
+                                                                                   "Don't Know":                                 0,
+                                                                                   "No Opinion":                                 0}},
+          "Don't Know" : {                            "Don't Trust" : {            "Strongly Disagree":                       4.37,
+                                                                                   "Disagree Somewhat":                      3.308,
+                                                                                   "Neutral":                                5.865,
+                                                                                   "Agree Somewhat":                         4.198,
+                                                                                   "Strongly Agree":                         3.164,
+                                                                                   "Don't Know":                             5.077,
+                                                                                   "No Opinion":                             1.286},
+                                                      "Trust" : {                  "Strongly Disagree":                       0.93,
+                                                                                   "Disagree Somewhat":                      1.349,
+                                                                                   "Neutral":                                    0,
+                                                                                   "Agree Somewhat":                             0,
+                                                                                   "Strongly Agree":                         0.892,
+                                                                                   "Don't Know":                             1.012,
+                                                                                   "No Opinion":                                 0}},
+          "No Opinion" : {                            "Don't Trust" : {            "Strongly Disagree":                      0.493,
+                                                                                   "Disagree Somewhat":                          0,
+                                                                                   "Neutral":                                2.711,
+                                                                                   "Agree Somewhat":                         0.401,
+                                                                                   "Strongly Agree":                             0,
+                                                                                   "Don't Know":                                 0,
+                                                                                   "No Opinion":                             1.321},
+                                                      "Trust" : {                  "Strongly Disagree":                          0,
+                                                                                   "Disagree Somewhat":                          0,
+                                                                                   "Neutral":                                    0,
+                                                                                   "Agree Somewhat":                             0,
+                                                                                   "Strongly Agree":                             0,
+                                                                                   "Don't Know":                             1.945,
+                                                                                   "No Opinion":                                 0}}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
